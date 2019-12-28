@@ -21,7 +21,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 ---
 
 
-## 1. Animals Products Consumption of Provinces as Percentages of the Nation
+## Animals Products Consumption of Provinces as Percentages of the Nation
 
 <table>
     <tr>
@@ -178,7 +178,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 
-## 2. Percentages of Animal Produced Food (Gross) in Daily Intake
+## Percentages of Animal Produced Food (Gross) in Daily Intake
 
 <table>
     <!--Map of Gross-->
@@ -228,7 +228,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## 3. Percentages of Animal Produced Food (Different Kinds) in Daily Intake
+## Percentages of Animal Produced Food (Different Kinds) in Daily Intake
 
 <table>
     <!--Map of Kinds of-->
